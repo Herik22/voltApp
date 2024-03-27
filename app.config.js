@@ -11,9 +11,6 @@ export default {
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "plugins":[
-      "@react-native-google-signin/google-signin"
-    ],
     "assetBundlePatterns": [
       "**/*"
     ],
