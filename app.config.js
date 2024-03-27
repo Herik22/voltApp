@@ -1,4 +1,4 @@
-{
+export default {
   "expo": {
     "name": "voltApp",
     "slug": "voltApp",
@@ -19,7 +19,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.voltSolarEnergy.app",
+      "bundleIdentifier": "com.1voltSolarEnergy.app",
       "googleServicesFile": "./GoogleService-info.plist"
     },
     "android": {
@@ -27,7 +27,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.voltSolarEnergy.app",
+      "package": "com.1voltSolarEnergy.app",
       "googleServicesFile": "./google-services.json"
     },
     "web": {
